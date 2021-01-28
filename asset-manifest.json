@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/redux-test/static/css/main.f318bbe1.chunk.css",
+    "main.js": "/redux-test/static/js/main.2c1f6ef3.chunk.js",
+    "main.js.map": "/redux-test/static/js/main.2c1f6ef3.chunk.js.map",
+    "runtime-main.js": "/redux-test/static/js/runtime-main.9367c6a7.js",
+    "runtime-main.js.map": "/redux-test/static/js/runtime-main.9367c6a7.js.map",
+    "static/js/2.2e4d488f.chunk.js": "/redux-test/static/js/2.2e4d488f.chunk.js",
+    "static/js/2.2e4d488f.chunk.js.map": "/redux-test/static/js/2.2e4d488f.chunk.js.map",
+    "static/js/3.78fa9c15.chunk.js": "/redux-test/static/js/3.78fa9c15.chunk.js",
+    "static/js/3.78fa9c15.chunk.js.map": "/redux-test/static/js/3.78fa9c15.chunk.js.map",
+    "index.html": "/redux-test/index.html",
+    "static/css/main.f318bbe1.chunk.css.map": "/redux-test/static/css/main.f318bbe1.chunk.css.map",
+    "static/js/2.2e4d488f.chunk.js.LICENSE.txt": "/redux-test/static/js/2.2e4d488f.chunk.js.LICENSE.txt",
+    "static/media/like.d9049b2d.svg": "/redux-test/static/media/like.d9049b2d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9367c6a7.js",
+    "static/js/2.2e4d488f.chunk.js",
+    "static/css/main.f318bbe1.chunk.css",
+    "static/js/main.2c1f6ef3.chunk.js"
+  ]
+}
